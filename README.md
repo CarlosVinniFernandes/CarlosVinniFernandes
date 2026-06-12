@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 I am a Junior Software Developer with 1.5 years of experience working primarily with TypeScript in web development, currently focusing on consolidating my knowledge in C# to transition into opportunities using the .NET ecosystem.​
+💻 I am a Junior Software Developer with 2+ years of experience working primarily with TypeScript in web development, currently focusing on consolidating my knowledge in C# to transition into opportunities using the .NET ecosystem.​
 
 🏢 I work at CETE and participate in the Software Engineering Research Laboratory (LAPES), where I strengthen my foundations in software engineering practices and collaborative development.​
 
@@ -11,7 +11,7 @@
 ⚙️ In my day-to-day, I enjoy building end-to-end solutions, from backend logic and APIs to frontend interfaces, and I keep improving my skills in C#, TypeScript, Python, and Java to be able to deliver robust and maintainable systems.
 
 ✉️ &nbsp;You can shoot me an email at carlozfernandes.dev@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/carlos-vinnicius-fernandes-3a58532b7/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://carlosfernandes.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
