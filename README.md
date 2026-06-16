@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 I am a Junior Software Developer with 2+ years of experience working primarily with TypeScript in web development, currently focusing on consolidating my knowledge in C# to transition into opportunities using the .NET ecosystem.​
+💻 I am a Junior Software Developer with 4+ years of experience working primarily with TypeScript in web development, currently focusing on consolidating my knowledge in C# to transition into opportunities using the .NET ecosystem.​
 
 🏢 I work at CETE and participate in the Software Engineering Research Laboratory (LAPES), where I strengthen my foundations in software engineering practices and collaborative development.​
 
